@@ -1,0 +1,15 @@
+.button{
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.button--primary {
+    background-color: blue;
+    color: aliceblue;
+}
+
+.button--secondary {
+    background-color: blueviolet;
+    color: darkgreen;
+}
